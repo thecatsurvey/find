@@ -4,6 +4,8 @@
 
 [UWS 2B under 6,000 near 123 trains SE](https://streeteasy.com/2-bedroom-apartments-for-rent/lincoln-square/price:-6000%7Cboundary:UWS%20near%201%202%203%20trains-gnzwFdrqbM~GmEjHkDzGmEtFeIgDiKcGqGaPaNqGqGwHwC%7DGaFoRsHoGaGaIuAiDxJ%7BEdImHlDqIn@uFaHqGqFiHiDwFcHaIQoAlLxAjLhFvHdGpHtHxC::::GlE::::G~E::::GlExHjCbIrAbIbAbIvBjHlEbIbA::::G~ErGpFxE%5E)
 
+[UWS 2B under 6,200 59 up to 96 btw CPW and WEA](https://streeteasy.com/2-bedroom-apartments-for-rent/upper-west-side/price:4000-6200%7Cboundary:59th%20to%2096th%20CPW%20to%20WEA-og~wFz::::lbM::::G~FfH%60GzJxIfHlF~I::::EhHjDpIlDbIhDtQxJdI::::EvHtGhHnGjHzDvHlEdGrG_FdIoGnFuOtPiH::::DcIvBeIQ%7DGmE%7DGoFmGqGyFcHoGqFkH%7BDiHmEwHkDuHmEkH%7DEqGaGcGoG%7BC%7BJxAmLzCyJtB%7BK%60CiKnAsH)
+
 [UWS 2B under $6,000 C](https://www.compass.com/for-rent/upper-west-side-manhattan-ny/price=4K-6K/mapview=40.7846229,-73.9664666,40.7704864,-73.9927308/beds.min=2/)
 
 [UWS under $2,500](https://www.compass.com/for-rent/upper-west-side-manhattan-ny/price.max=2.5k/mapview=40.7846229,-73.9664666,40.7704864,-73.9927308/)
