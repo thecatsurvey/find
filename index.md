@@ -2,6 +2,9 @@
 
 ## searches
 
+[Parking in Brooklyn](https://www.google.com/search?tbs=lf:1,lf_ui:3&tbm=lcl&sxsrf=ALiCzsZFBxO4vjXa6uSl7XeD9ow_RzBHhA:1654725435090&q=parking+lots+in+brooklyn&rflfq=1&num=10&ved=2ahUKEwiWnonO7J74AhW_s4QIHZgfBmEQtgN6BAgKEAQ#rlfi=hd:;si:;mv:[[40.718180096551734,-73.88402080493164],[40.66891643730091,-74.01276683764648],null,[40.693552820043365,-73.94839382128906],14])
+
+
 [Bushwick / Bed Stuy 2 3 BR with parking](https://streeteasy.com/for-rent/nyc/price:2500-4300%7Carea:310,313%7Cbeds:2-3%7Camenities:parking)
 
 [Greenpoint / Williamsburg 2 3 BR with parking](https://streeteasy.com/for-rent/nyc/price:2500-4300%7Carea:301,302%7Cbeds:2-3%7Camenities:parking)
