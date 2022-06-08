@@ -2,6 +2,10 @@
 
 ## searches
 
+[Bushwick / Bed Stuy 2 3 BR with parking](https://streeteasy.com/for-rent/nyc/price:2500-4300%7Carea:310,313%7Cbeds:2-3%7Camenities:parking)
+
+[Greenpoint / Williamsburg 2 3 BR with parking](https://streeteasy.com/for-rent/nyc/price:2500-4300%7Carea:301,302%7Cbeds:2-3%7Camenities:parking)
+
 [UWS 79th to 96th Street up to $6,000](https://streeteasy.com/2-bedroom-apartments-for-rent/uws/price:-6000%7Cboundary:79th%20to%2097th%20Street%20UWS-k__xFdfobMzAuDd@sE~AuEt@%7BFfAmErEwJzBgM%60BmEhDcAfDh@tD::::@hDx@%60E~AzC~AlCbBvC%60B%60HzEtDfBhHvF%60ChCt@tE%5BtEk@~EaAdEgBjLoDrKwA::::EcAxFmAvEaCzDsC::::AiDq@gIyBiDuAwDqCoDwB_DwCcCkCmCaDiCiCsCwB%7BCwBaDoBeBsDV%7DA%7Cpre_war:yes?view=map)
 
 [UWS 2B under 6,000 near 123 trains SE](https://streeteasy.com/2-bedroom-apartments-for-rent/lincoln-square/price:-6000%7Cboundary:UWS%20near%201%202%203%20trains-gnzwFdrqbM~GmEjHkDzGmEtFeIgDiKcGqGaPaNqGqGwHwC%7DGaFoRsHoGaGaIuAiDxJ%7BEdImHlDqIn@uFaHqGqFiHiDwFcHaIQoAlLxAjLhFvHdGpHtHxC::::GlE::::G~E::::GlExHjCbIrAbIbAbIvBjHlEbIbA::::G~ErGpFxE%5E)
