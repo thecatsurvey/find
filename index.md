@@ -2,6 +2,8 @@
 
 ## searches
 
+[Parking in Queens](https://www.google.com/search?q=parking+lots+in+queens&tbm=lcl&sxsrf=ALiCzsYIcckq-J7c3hqiqfj2EYbG_kA-dA%3A1654725439685&ei=PxuhYrfBKZ-HytMP6o6i6As&oq=parking+lots+in+queens&gs_l=psy-ab.3..0i512k1j0i30i22k1j0i30i15i22k1j0i30i22k1l6j0i30i15i22k1.102503.105247.0.105478.8.7.1.0.0.0.91.573.7.7.0....0...1c.1.64.psy-ab..0.8.576...0i30i22i10k1j0i13k1j0i30i13i5k1j0i30i8i13k1j0i390k1.0.pDvG4tOH9L8#rlfi=hd:;si:;mv:[[40.78942164169757,-73.74916437836913],[40.690963354730094,-74.00665644379882],null,[40.740210715147064,-73.87791041108397],13])
+
 [Parking in Brooklyn](https://www.google.com/search?tbs=lf:1,lf_ui:3&tbm=lcl&sxsrf=ALiCzsZFBxO4vjXa6uSl7XeD9ow_RzBHhA:1654725435090&q=parking+lots+in+brooklyn&rflfq=1&num=10&ved=2ahUKEwiWnonO7J74AhW_s4QIHZgfBmEQtgN6BAgKEAQ#rlfi=hd:;si:;mv:[[40.718180096551734,-73.88402080493164],[40.66891643730091,-74.01276683764648],null,[40.693552820043365,-73.94839382128906],14])
 
 
