@@ -2,6 +2,9 @@
 
 ## searches
 
+
+[Blueground](https://www.theblueground.com/furnished-apartments-new-york-usa?subArea=chelsea)
+
 [Rent Hop NYC average rent](https://www.renthop.com/average-rent-in/new-york-city-ny)
 
 [PropertyShark Multifamily](https://www.propertyshark.com/homes/US/Multi-Family-Homes-For-Sale/NY/New-York-City.html)
