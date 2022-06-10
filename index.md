@@ -2,6 +2,8 @@
 
 ## searches
 
+[Rent Hop NYC average rent](https://www.renthop.com/average-rent-in/new-york-city-ny)
+
 [PropertyShark Multifamily](https://www.propertyshark.com/homes/US/Multi-Family-Homes-For-Sale/NY/New-York-City.html)
 
 [Parking in Queens](https://www.google.com/search?q=parking+lots+in+queens&tbm=lcl&sxsrf=ALiCzsYIcckq-J7c3hqiqfj2EYbG_kA-dA%3A1654725439685&ei=PxuhYrfBKZ-HytMP6o6i6As&oq=parking+lots+in+queens&gs_l=psy-ab.3..0i512k1j0i30i22k1j0i30i15i22k1j0i30i22k1l6j0i30i15i22k1.102503.105247.0.105478.8.7.1.0.0.0.91.573.7.7.0....0...1c.1.64.psy-ab..0.8.576...0i30i22i10k1j0i13k1j0i30i13i5k1j0i30i8i13k1j0i390k1.0.pDvG4tOH9L8#rlfi=hd:;si:;mv:[[40.78942164169757,-73.74916437836913],[40.690963354730094,-74.00665644379882],null,[40.740210715147064,-73.87791041108397],13])
