@@ -36,7 +36,9 @@
 
 [Chelsea,Kips Bay, Gramercy, Midtown East up to $3000](https://streeteasy.com/for-rent/nyc/price:-3000%7Carea:115,146,133,123,130%7Camenities:laundry)
 
-[Morningside Heights - all Sales](https://streeteasy.com/for-sale/nyc/area:147?view=map)
+[Morningside Heights - all Sales](https://streeteasy.com/for-sale/nyc/area:147)
+
+[Hamilton Heights - all Sales](https://streeteasy.com/for-sale/hamilton-heights)
 
 ## searches
 
