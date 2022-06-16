@@ -57,6 +57,8 @@
 
 [The Columbia 275 West 96th Street](https://streeteasy.com/building/the-columbia)
 
+[250 W 85th Street](https://metropolitanequities.com/rentals)
+
 
 [Bushwick / Bed Stuy 2 3 BR with parking](https://streeteasy.com/for-rent/nyc/price:2500-4300%7Carea:310,313%7Cbeds:2-3%7Camenities:parking)
 
